@@ -40,4 +40,4 @@ The control center of the locomotive, where the operator manages and monitors th
 14. Nose
 The front part of the locomotive, designed for aerodynamics and housing auxiliary components.
 
-You can watch the final project video here: https://iitgnacin-my.sharepoint.com/personal/23110128_iitgn_ac_in/_layouts/15/stream.aspx?id=%2Fpersonal%2F23110128%5Fiitgn%5Fac%5Fin%2FDocuments%2FES%20101%20%2D%20Group%2013%2FGroup%5F13%5FPresentation%5FVideo%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eab6aa825%2Da047%2D4199%2D86c5%2D8232ccad2253
+You can watch the final project video here: https://iitgnacin-my.sharepoint.com/:f:/g/personal/23110128_iitgn_ac_in/Eif8KetGp4dLqvkUcFmfd2EBIONUGIQuy3dFbBysaW8vPA?e=WYMSg9
